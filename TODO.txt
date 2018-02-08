@@ -1,0 +1,17 @@
+# QR Code Generator Project
+
+1. Blank Project With Bootstrap + QR + Jquery Added
+2. Generating Qr code form the input filed text
+3. Added image save option when click in the inage
+4. Added the collor picker to pick the collor of forgroud and background of the QR code
+5. Styling the Web Page
+
+--------------- Optional ---------------
+
+1. Add a loading image untill the webpage loaded
+2. Publish the webpage into github
+
+================ If Possiable ==================
+
+1. Create A wordpress Plugin Of this Project with Option Penel
+2/ Publish the plugin
